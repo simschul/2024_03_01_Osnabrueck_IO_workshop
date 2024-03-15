@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#uncertainty-in-ee-mrio-current-state",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#uncertainty-in-ee-mrio-current-state",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Uncertainty in EE-MRIO: Current state",
+    "text": "Uncertainty in EE-MRIO: Current state\n\n\ndatabase comparisons: Satellite accounts are largest source of discrepancy\n\n\n\n\n\n\n\nhttps://robbieandrew.github.io/consumption/index.html\n\n\n\n\n\n\n\nhttps://robbieandrew.github.io/consumption/index.html"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#uncertainty-in-ee-mrio-current-state-1",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#uncertainty-in-ee-mrio-current-state-1",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Uncertainty in EE-MRIO: Current state",
+    "text": "Uncertainty in EE-MRIO: Current state\n\ndatabase comparisons: Satellite accounts are largest source of discrepancy\nmostly points estimates, and, if at all, qualitative considerations of uncertainty\nfew studies provide quantitative estimation of parametric uncertainties [1–8]\ntwo GMRIO databases that publish uncertainty estimates alongside each data entry (except for GHG extensions): Eora [9] & GLORIA [10]\nall studies use Monte-Carlo (MC) simulations to propagate uncertainty from model input parameters to model outputs"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#aim-and-scope-of-our-study",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#aim-and-scope-of-our-study",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Aim and scope of our study",
+    "text": "Aim and scope of our study\n\nestimate the parametric uncertainty of the GHG satellite accounts\nestimate how the uncertainty propagates to GHG footprints\novercome two shortcomings from previous approaches:\n\n#1: Uncertainty of the raw input data based on simplistic assumptions\n#2: Correlations between variables obtained by disaggregating a common input data point are ignored\n\n\n\n\nScope:\n\nYear 2015\nGHGs CO\\(_2\\), CH\\(_4\\), N\\(_2\\)O\nEXIOBASE country/sector resolution"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#statistical-concept",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#statistical-concept",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Statistical concept",
+    "text": "Statistical concept"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#our-workflow",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#our-workflow",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Our workflow",
+    "text": "Our workflow"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#our-workflow-1",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#our-workflow-1",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Our workflow",
+    "text": "Our workflow"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#our-workflow-2",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#our-workflow-2",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Our workflow",
+    "text": "Our workflow"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#our-workflow-3",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#our-workflow-3",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Our workflow",
+    "text": "Our workflow"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#two-common-approaches",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#two-common-approaches",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Two common approaches",
+    "text": "Two common approaches\n\n\nHeuristics:\n [2]\n\nStatistical model:  [1]"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#our-approach",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#our-approach",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Our approach",
+    "text": "Our approach\n\nUNFCCC National Inventory Reports (only in .pdf format 😭)\n\nBut now, as .csv on Zenodo: https://zenodo.org/records/10037714 😁"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#data-disaggregation-residence-adjustment",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#data-disaggregation-residence-adjustment",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Data disaggregation: Residence adjustment",
+    "text": "Data disaggregation: Residence adjustment"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#data-disaggregation-assign-to-mrio-sectors",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#data-disaggregation-assign-to-mrio-sectors",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Data disaggregation: Assign to MRIO sectors",
+    "text": "Data disaggregation: Assign to MRIO sectors"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#uncertainty-propagation-involving-data-disaggregation",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#uncertainty-propagation-involving-data-disaggregation",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Uncertainty propagation involving data disaggregation",
+    "text": "Uncertainty propagation involving data disaggregation\n\n\n\n\n\n\n\nG\n\n  \n\nparallelogram1\n\n Y₀   \n\nparallelogram2\n\n Y₁   \n\nparallelogram1-&gt;parallelogram2\n\n    \n\nparallelogram3\n\n Y₂   \n\nparallelogram1-&gt;parallelogram3\n\n    \n\nparallelogram4\n\n Y₃   \n\nparallelogram1-&gt;parallelogram4\n\n   \n\n\n\n\n\nwhere \\(\\sum Y_i = Y_0\\)."
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#uncertainty-propagation-involving-data-disaggregation-1",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#uncertainty-propagation-involving-data-disaggregation-1",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Uncertainty propagation involving data disaggregation",
+    "text": "Uncertainty propagation involving data disaggregation\n\n\n\n\n\n\n\nG\n\n  \n\nparallelogram1\n\n Y₀   \n\nparallelogram2\n\n Y₁=α₁Y₀   \n\nparallelogram1-&gt;parallelogram2\n\n    \n\nparallelogram3\n\n Y₂=α₂Y₀   \n\nparallelogram1-&gt;parallelogram3\n\n    \n\nparallelogram4\n\n Y₃=α₃Y₀   \n\nparallelogram1-&gt;parallelogram4\n\n   \n\n\n\n\n\nwhere \\(\\sum \\alpha_i = 1\\)."
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#constraints-information",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#constraints-information",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Constraints & Information",
+    "text": "Constraints & Information\n\n\n\n\n\n\n\nG\n\n  \n\nparallelogram1\n\n Y₀   \n\nparallelogram2\n\n Y₁=α₁Y₀   \n\nparallelogram1-&gt;parallelogram2\n\n    \n\nparallelogram3\n\n Y₂=α₂Y₀   \n\nparallelogram1-&gt;parallelogram3\n\n    \n\nparallelogram4\n\n Y₃=α₃Y₀   \n\nparallelogram1-&gt;parallelogram4\n\n   \n\n\n\n\n\n\n\nMean \\(\\mu\\) and Standard Deviation \\(\\sigma\\) of aggregate data (UNFCCC/EDGAR)\nMean sector shares for disaggregate data \\(\\boldsymbol{\\alpha}\\) (proxy data: SUT/PEFA/…)\nsum-to-one constraint: \\(\\sum \\alpha_i = 1\\)\nno negative emissions"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#sampling-procedure",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#sampling-procedure",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Sampling procedure",
+    "text": "Sampling procedure\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStep 1: Sample aggregate data from truncated normal distribution: \\(y_0 \\sim tN(\\mu,\\sigma,a = 0)\\)\n\n\nStep 2: Sample sector shares from Dirichlet distribution: \\(x_1, x_2, ..., x_K \\sim Dir(\\boldsymbol\\alpha,\\gamma = \\hat\\gamma)\\)\n\n\nStep 3: Multiply both \\(y_i = x_i y_0\\  \\forall\\ i\\in{1,..,K}\\)"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#sampling-from-a-dirichlet-distribution",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#sampling-from-a-dirichlet-distribution",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Sampling from a Dirichlet distribution",
+    "text": "Sampling from a Dirichlet distribution"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#sampling-from-a-dirichlet-distribution-1",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#sampling-from-a-dirichlet-distribution-1",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Sampling from a Dirichlet distribution",
+    "text": "Sampling from a Dirichlet distribution"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#the-gamma-parameter",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#the-gamma-parameter",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "The \\(\\gamma\\) parameter",
+    "text": "The \\(\\gamma\\) parameter\n\\(\\require{colorx} x_1, x_2, ..., x_K \\sim Dir(\\boldsymbol\\alpha,\\color{red} \\gamma\\color{black})\\)"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#the-gamma-parameter-1",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#the-gamma-parameter-1",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "The \\(\\gamma\\) parameter",
+    "text": "The \\(\\gamma\\) parameter\n\\(\\require{colorx} x_1, x_2, ..., x_K \\sim Dir(\\boldsymbol\\alpha,\\color{red}{\\gamma=\\hat\\gamma} \\color{black})\\)\n\n\n\n\nMaximum Entropy (MaxEnt) principle:\nThe least informative probability distribution consistent with a given set of constraints is the one which maximizes the entropy [11]"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#finding-hatgamma-which-maximises-the-entropy",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#finding-hatgamma-which-maximises-the-entropy",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Finding \\(\\hat\\gamma\\) which maximises the entropy",
+    "text": "Finding \\(\\hat\\gamma\\) which maximises the entropy\n\\(\\require{colorx} x_1, x_2, ..., x_K \\sim Dir(\\boldsymbol\\alpha,\\color{red}{\\gamma=\\hat\\gamma} \\color{black})\\)\n\\[\n\\max_{\\gamma&gt;0}\\ h(\\gamma) = ln B(\\gamma\\boldsymbol\\alpha) + (\\gamma\\alpha_0-K)\\psi(\\gamma\\alpha_0) - \\sum_{i=1}^K (\\gamma\\alpha_i-1)\\psi(\\gamma\\alpha_i),\n\\] where\n\n\\(\\psi(x)\\) is the Digamma function \\(\\psi(x) = \\frac{d}{dn}ln(\\Gamma(x)) = \\frac{\\Gamma'(x)}{\\Gamma(x)}\\),\n\\(\\Gamma(x)\\) is the Gamma function: \\(\\Gamma(x) = \\int_0^\\infty t^{x-1}e^{-t}dt\\),\n\\(B(\\gamma\\boldsymbol\\alpha)\\) is the multivariate beta function: \\(B(\\gamma\\boldsymbol\\alpha) = \\frac{\\prod_{i=1}^K \\Gamma(\\gamma\\alpha_i)}{\\Gamma(\\sum_{i=1}^K \\gamma\\alpha_i)}\\)"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#correlations",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#correlations",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Correlations",
+    "text": "Correlations"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#why-correlations-matter",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#why-correlations-matter",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Why correlations matter",
+    "text": "Why correlations matter"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#why-correlations-matter-1",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#why-correlations-matter-1",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Why correlations matter",
+    "text": "Why correlations matter"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#conclusion",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#conclusion",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nUncertainty hot-spots:\n\nNational level:\n\nCO\\(_2\\): small economies subject to large residence adjustments\nIn general larger uncertainties for CH\\(_4\\) and esp. N\\(_2\\)O\n\nSector level: Overall: high uncertainties (median CV of ~1)\n\nIgnoring correlations would overestimate CO\\(_2\\)-footprints and underestimate N\\(_2\\)O-footprints\n\n\n\nOpen science:\n\nPreprint: https://essd.copernicus.org/preprints/essd-2023-473/\nCode: https://github.com/simschul/uncertainty_GHG_accounts\nResults data: https://zenodo.org/records/10041196\nUNFCCC uncertainties: https://zenodo.org/records/10037714"
+  },
+  {
+    "objectID": "2024_03_01_Osnabrueck_IO_workshop.html#references",
+    "href": "2024_03_01_Osnabrueck_IO_workshop.html#references",
+    "title": "Uncertainty in MRIO-based GHG footprints",
+    "section": "References",
+    "text": "References\n\n\n1. M. Lenzen, R. Wood, & T. Wiedmann, Uncertainty Analysis for Multi-Region Input–Output Models – a Case Study of the Uk’s Carbon Footprint. Economic Systems Research, 22 (2010) 43–63. https://doi.org/10.1080/09535311003661226.\n\n\n2. H. C. Wilting, Sensitivity and uncertainty analysis in mrio modelling; some empirical results with regard to the dutch carbon footprint. Economic Systems Research, 24 (2012) 141–171. https://doi.org/10.1080/09535314.2011.628302.\n\n\n3. J. Karstensen, G. P. Peters, & R. M. Andrew, Uncertainty in temperature response of current consumption-based emissions estimates. Earth System Dynamics, 6 (2015) 287–309. https://doi.org/10.5194/esd-6-287-2015.\n\n\n4. D. Moran, K. Kanemoto, M. Jiborn, R. Wood, J. Többen, & K. C. Seto, Carbon footprints of 13000 cities. Environmental Research Letters, 13 (2018) 064041. https://doi.org/10.1088/1748-9326/aac72a.\n\n\n5. P. Shrestha & C. Sun, Carbon emission flow and transfer through international trade of forest products. Forest Science, 65 (2019) 439–451. https://doi.org/10.1093/forsci/fxz003.\n\n\n6. H. Zhang, K. He, X. Wang, & E. G. Hertwich, Tracing the Uncertain Chinese Mercury Footprint within the Global Supply Chain Using a Stochastic, Nested Input–Output Model. Environmental Science & Technology, 53 (2019) 6814–6823. https://doi.org/10.1021/acs.est.8b06373.\n\n\n7. K. Kanemoto, Y. Shigetomi, N. T. Hoang, K. Okuoka, & D. Moran, Spatial variation in household consumption-based carbon emission inventories for 1200 Japanese cities. Environmental Research Letters, 15 (2020) 114053. https://doi.org/10.1088/1748-9326/abc045.\n\n\n8. K. Abbood, G. Egilmez, & F. Meszaros, Multi-region Input-Output-based Carbon and Energy Footprint Analysis of U.S. Manufacturing. Periodica Polytechnica Social and Management Sciences, 31 (2023) 91–99. https://doi.org/10.3311/PPso.19554.\n\n\n9. M. Lenzen, D. Moran, K. Kanemoto, & A. Geschke, Building eora: A global multi-region inputoutput database at high country and sector resolution. Economic Systems Research, 25 (2013) 20–49. https://doi.org/10.1080/09535314.2013.769938.\n\n\n10. M. Lenzen, A. Geschke, J. West, J. Fry, A. Malik, S. Giljum, L. Milà i Canals, P. Piñero, S. Lutter, T. Wiedmann, M. Li, M. Sevenster, J. Potočnik, I. Teixeira, M. Van Voore, K. Nansai, & H. Schandl, Implementing the material footprint to measure progress towards Sustainable Development Goals 8 and 12. Nature Sustainability, 5 (2022) 157–166. https://doi.org/10.1038/s41893-021-00811-6.\n\n\n11. E. T. Jaynes, Information Theory and Statistical Mechanics. Physical Review, 106 (1957) 620–630. https://doi.org/10.1103/PhysRev.106.620."
+  }
+]
